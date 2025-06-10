@@ -1,0 +1,12 @@
+data/replica_v1/
+data/replica_sim_nvs/
+result/
+
+*.pyc
+
+
+results/
+wandb/
+tmp/
+
+.vscode/
